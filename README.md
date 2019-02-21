@@ -8,14 +8,13 @@ One of the main and most useful tools in this project was the use of containers 
 
 ![Example](images/ideaforindex.PNG)
 
-![](images/html.png)
+![index](images/html.png)
 
 ## Portfolio
 
 For the portfolio page I had noticed how the projects were organized in similar ways where you have the column and rows similar to what we had gone over in class. I had the chance to look at some of bootstrap feature and I decided to use cards with pictures. 
 
 
-![portfolio](images/port.png)
 
 ## Contact 
 The contact page was pretty easy with the help of bootstrap `<form>`. I did still have some trouble with the big box at first but I would still like to play around with more of the css and see what else could be done with the forms.

@@ -1,7 +1,7 @@
 .navbar-brand {
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
-    color: lightblue;
+    color: lightgrey;
 }
 
 .btn-primary {
@@ -19,6 +19,7 @@ body {
 .card-text {
     background: darkcyan;
     color: white;
+    text-align: center;
 }
 
 .containerPort {
@@ -29,6 +30,7 @@ body {
 .containCont {
     background: rgb(226, 226, 226);
     padding: 20px;
+    margin: auto;
 }
 
 .jumbotron {

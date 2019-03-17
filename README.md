@@ -2,7 +2,7 @@
 
 ## Update 3/16/2019
 
-I have updated the portfolio with a bit more different styling. I've included my first project and I have decided to add some simple animations to the page. I have changed a bit of the layout.
+I have updated the portfolio with a bit more different styling. I've included my first project and I have decided to add some simple animations to the page. I have changed a bit of the layout for the main page I still plan on making more updates to have the page portfolio area and organize the cards with making another area for the three major projects. In the carousel I included a button which takes to the first project page and examples of the site.
 
 ![new_page](images/project_ex.PNG)
 

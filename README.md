@@ -1,5 +1,13 @@
 # Bootstrap-Portfolio
 
+## Update 3/16/2019
+
+I have updated the portfolio with a bit more different styling. I've included my first project and I have decided to add some simple animations to the page. I have changed a bit of the layout.
+
+![new_page](images/project_ex.PNG)
+
+## About my portfolio
+
 For this project I attempted to create my own portfolio using bootstrap. Bootstrap help a lot with the basic idea it served more as a backbone to the portfolio that I wanted to make. I did not want to copy exactly what we saw in class but I did want to make it close enough to the template. I used css to help me out with some of the coloring and resizing of a few images and with the margins of a few containers.
 
 ## Index 
@@ -8,7 +16,6 @@ One of the main and most useful tools in this project was the use of containers 
 
 ![Example](images/ideaforindex.PNG)
 
-![index](images/html.png)
 
 ## Portfolio
 

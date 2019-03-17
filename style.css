@@ -109,3 +109,8 @@ footer {
         opacity: 1;
     }
 }
+
+#project {
+    color: white;
+    background: black;
+}
